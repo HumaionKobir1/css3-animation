@@ -1,0 +1,9 @@
+.box{
+    width: 150px;
+    height: 150px;
+    border: 2px solid magenta;
+    background-color: aqua;
+}
+#box-3{
+    visibility: hidden;
+}
